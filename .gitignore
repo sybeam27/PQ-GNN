@@ -1,2 +1,1 @@
-dataset/ogbn_arxiv/processed/geometric_data_processed.pt
-dataset/ogbn_arxiv/raw/node-feat.csv.gz
+dataset/
