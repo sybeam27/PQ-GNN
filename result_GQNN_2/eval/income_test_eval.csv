@@ -1,0 +1,4 @@
+Coverage Rate (CR),Interval Width (IW),Normalized IW,Mean Prediction Error (MPE),Sharpness,Winkler Score (WS),MisCoverage Trade-off (MCT),lambda_factor
+0.9582,0.3385,0.3305,0.0569,0.1147,0.3419,0.0197,1.0000
+0.0077,0.0003,0.0003,0.0570,0.0000,0.0572,0.0003,3.0000
+0.8700,0.2248,0.2195,0.0568,0.0509,0.2335,0.0068,1.5000
